@@ -8,7 +8,8 @@ public class Thermos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hello suraj");
+		System.out.println("hello suraj");
+		System.out.println("hello myron");
 	}
 
 }
